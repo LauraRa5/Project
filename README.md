@@ -2,4 +2,4 @@
 kleines Spiel/Applikation für die Hochschule
 hier steht was
 
-bbbb
+Huhu, es funktioniert :)
